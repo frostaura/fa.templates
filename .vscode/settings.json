@@ -1,6 +1,6 @@
 {
     "files.exclude": {
-        "**/.git*": true,
+        "**/.git*": false,
         "**/.ipynb_checkpoints": true,
         "**/.vscode": false,
         "**/__pycache__": true,

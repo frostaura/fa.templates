@@ -10,6 +10,14 @@ Replace all instances of the following strings across all files with your specif
 | \<APPLICATION> | The name or namespace of the application. E.g. clients.pointskeeper.
 | fa.templates | The name of the template at the top of the README.md file.
 
+### Adding Environment Variables
+| Variable | Description |
+| -- | -- |
+| DOCKER_USERNAME | The Docker Hub username to use to publish the Docker image after a build.
+| DOCKER_PASSWORD | The Docker Hub password to use to publish the Docker image after a build.
+| PROJECT_IDENTITY | The name or namespace of the application. E.g. clients.pointskeeper.
+| PROJECT_DESCRIPTION | A brief description for the software.
+
 ## Contribute
 To contribute, simply fork the repository, make changes and create a pull request.
 
