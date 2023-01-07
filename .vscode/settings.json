@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.git*": true,
+        "**/.ipynb_checkpoints": true,
+        "**/.vscode": false,
+        "**/__pycache__": true,
+        "*.egg*/**": true,
+        "build/**": true,
+        "dist/**": true,
+        "**/examples/**/*.csv": true
+    }
+}
