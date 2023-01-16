@@ -1,5 +1,6 @@
 [<< Back](../README.md)
 
+# Support & Contrinute
 ## Cleanup Required After Forking the Template
 ### Text Replacements
 Replace all instances of the following strings across all files with your specifications.
