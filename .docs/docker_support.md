@@ -1,14 +1,14 @@
 [<< Back](../README.md)
 
-## Docker Support
+# Docker Support
 ![Docker Badge](https://dockeri.co/image/frostaura/<APPLICATION>)
-### Local
+## Local
 The project supports being run as a container and is in fact indended to. In order to run this service locally, simply run `docker-compose up` in the directory where the `docker-compose.yml` file resides. The service will now run.
-### Docker Hub
+## Docker Hub
 Automated builds are set up for Docker Hub. To use this service without the source code running, use
 - `docker pull frostaura/<APPLICATION>` or 
 - Visit https://hub.docker.com/repository/docker/frostaura/<APPLICATION>.
-#### Docker Compose Example
+### Docker Compose Example
     version: "3"
         services:
             <APPLICATION>:
