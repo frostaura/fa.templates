@@ -1,8 +1,8 @@
 {
     "files.exclude": {
-        "**/.git*": false,
+        "**/.git": true,
         "**/.ipynb_checkpoints": true,
-        "**/.vscode": false,
+        "**/.vscode": true,
         "**/__pycache__": true,
         "*.egg*/**": true,
         "build/**": true,
